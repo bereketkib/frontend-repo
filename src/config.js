@@ -1,2 +1,2 @@
-const API_URL = "https://backend-repo-1-45my.onrender.com";
+const API_URL = "https://backend-repo-w1o9.onrender.com";
 export default API_URL;
